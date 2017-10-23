@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head> 
+  <meta charset = "Open Sans Condensed">
+  <title>DATABLINK</title>
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans+Condensed"/>
+  <link rel="stylesheet" type="text/css" href="hs.css" />
+  
+
+</head>
+<body>
+	<div class="bar">
+
+		<div class="bar-in">
+
+			<div class="L">
+
+				<a href="student.html"><img src="I3_icon.jpg" width="25"></a>&nbsp;&nbsp;&nbsp;
+				<a href="profile.html" class="link">PROFILE</a>&nbsp;&nbsp;&nbsp;
+				<a href="student.html" class="link">ACADEMIC</a>&nbsp;&nbsp;&nbsp;
+				<a href="student.html" class="link">WORK&EXPERIENCE</a>
+
+			</div>
+
+			<div class="R">
+
+				USERNAME&nbsp;&nbsp;&nbsp;
+				<a href="student.html"><image src="back_icon.jpg"></a>&nbsp;&nbsp;&nbsp;
+				<a href="student.html"><image src="print_icon.jpg"></a>&nbsp;&nbsp;&nbsp;
+				<a href="student.html"><image src="logout_icon.jpg"></a>
+
+			</div>
+
+		</div>
+</div>	
+
+	<div class='pic'>
+		<image src="I7_student.png">
+	</div>
+	<div class='NameId'>
+		<p>
+			NAME : XXXXXXXXXXXXX <br/>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ID : XXXXXXXXXXXX
+
+		</p>
+	</div>
+	<div class="cc1">
+		<image src="cc1.png" width = "50" height ="50"><br/><br/><br/>
+		<image src="cc2.png" width = "50" height ="50"><br/><br/><br/>
+		<image src="cc3.png" width = "50" height ="50"><br/><br/><br/> 
+		</div>
+	<div class="cc2">
+		<image src="cc1.png" width = "120" height ="100" ><br/><br/><br/>
+		<image src="cc2.png" width = "120" height ="100"><br/><br/><br/>
+		<image src="cc3.png" width = "120" height ="100"><br/><br/><br/>
+		</div>
+	<div class="cc3">
+		<image src="cc1.png" width = "250" height ="150"><br/><br/><br/> 
+		<image src="cc2.png" width = "300" height ="150"><br/><br/><br/>
+		<image src="cc3.png" width = "280" height ="150"><br/><br/><br/>
+	</div>
+	<div class = "cp">
+			<p> PROFILE </p><br/><br/>
+			<p> ACADAMIC </p><br/><br/>			
+			<p> ACTIVITY </p><br/><br/><br/>
+	</div>
+	<div class="print">
+		<image src="I4_icon.png" width = "200" height ="120"><br/><br/><br/> 
+
+	</div>
+
+	</body>
+</html>
